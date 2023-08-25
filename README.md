@@ -1,9 +1,11 @@
 "# REST-API" 
 
 **The website looking like when we start.**
-<img width="960" alt="Screenshot 2023-08-25 081605" src="https://github.com/Irfan-Siddiqui-au52/REST-API/assets/96060447/8cc954fa-2eef-4f5f-a9a2-37e1393e08ae">
+<img width="960" alt="Screenshot 2023-08-25 081605" src="https://github.com/Irfan-Siddiqui-au52/REST-API/assets/96060447/403d9693-8961-4424-ab05-e945dd345492">
+
 
 **After Adding the Data**
-<img width="960" alt="Screenshot 2023-08-25 081515" src="https://github.com/Irfan-Siddiqui-au52/REST-API/assets/96060447/d0b9f232-aa72-4e16-9a45-56effb5f0db5">
+<img width="960" alt="Screenshot 2023-08-25 081515" src="https://github.com/Irfan-Siddiqui-au52/REST-API/assets/96060447/6c6415c6-b358-470d-8bd1-24ebca45d326">
+
 
 "# REST-API" 
